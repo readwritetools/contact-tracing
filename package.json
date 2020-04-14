@@ -1,6 +1,6 @@
 {
   "name": "contact-tracing",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Demonstration of the Google/Apple Contact Tracing Cryptography Specification",
   "main": "demo.js",
   "author": "Read Write Tools",
@@ -29,5 +29,5 @@
     "demo.js",
     "contact-tracing.class.js",
     "readme.md"
-  ]  
+  ]
 }
