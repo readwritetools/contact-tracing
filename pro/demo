@@ -1,0 +1,17 @@
+!blue 2.0
+//=============================================================================
+//
+// File:         contact-tracing/pro/demo
+// Language:     prorenata script
+// Copyright:    Read Write Tools © 2020
+// License:      MIT License
+// Initial date: Apr 14, 2020
+// Contents:     Run demo
+//
+//=============================================================================
+
+
+// ----------------------- Run demo  ------------------------- 
+run {
+	sh node --experimental-modules ../demo.js
+}
